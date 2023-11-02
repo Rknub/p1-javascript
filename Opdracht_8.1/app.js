@@ -10,22 +10,22 @@ function GetValues() {
 
 function Multiply() {
     GetValues();
-    Result = Value * Value2;
+    Result = Value1 * Value2;
     SetResult (Result);
 }
 function Subtract() {
     GetValues();
-    Result = Value - Value2;
+    Result = Value1 - Value2;
     SetResult (Result);
 }
 function Sum() {
     GetValues();
-    Result = Value + Value2;
+    Result = (Value1 + Value2);
     SetResult (Result);
 }
 function Devide() {
     GetValues();
-    Result = Value / Value2;
+    Result = Value1 / Value2;
     SetResult (Result);
 }
 

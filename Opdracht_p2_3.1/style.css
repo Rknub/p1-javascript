@@ -1,0 +1,6 @@
+/* Stijlen voor de weergave van het winkelmandje */
+#winkelmandje {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }

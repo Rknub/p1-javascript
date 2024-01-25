@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8;
+    background-color: #0033ff;
 }
 
 .container {
     width: 400px;
     margin: 50px auto;
-    background-color: #0015ff;
+    background-color: #ffffff;
     padding: 20px;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
